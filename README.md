@@ -1,3 +1,3 @@
 # bthblog - Beyond The Horzon
 
-A personal blog utilizing Enhance
+A personal blog based on Enhance (enhance-dev/enhance-blog-template)
